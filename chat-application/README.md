@@ -1,4 +1,4 @@
-### [ChatterBox](https://chatterbox-by-amlan.vercel.app/) 
+
 
 ChatterBox is a real time chat application created using MERN stack and socket.io to achieve real time connection. 🚀
 
